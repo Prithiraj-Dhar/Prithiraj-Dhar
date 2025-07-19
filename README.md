@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing my B.Sc. in **Computer Science & Engineering**
-- 🔁 Solved 300+ DSA problems on **Codeforces**, **LeetCode**, and **HackerRank**
+- 🔁 Solved 500+ DSA problems on **Codeforces**, **LeetCode**, and **HackerRank**
 - 📚 Member of **XPSC** Club at **Phitron**
 - 💡 Completed **C Programming** and **DSA** courses with Phitron
 - 🌍 Dreaming to pursue a **Master's abroad (USA/UK)** in future
