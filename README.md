@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergraduate | Aspiring Backend & Software Engineer | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  I build things, break things, and figure out how they work — currently on the path from student to backend engineer.
+  I build things, break things, and figure out how they work currently on the path from student to backend engineer.
 </p>
 
 ---
@@ -11,8 +11,8 @@
 
 - 📚 2nd-year Computer Science & Engineering student
 - 🧠 Practicing **Data Structures, Algorithms & Competitive Programming** (mostly in C++)
-- 🏗️ Strengthening my **backend engineering** foundations — Java, software architecture, and design principles
-- 🎯 Working toward building **scalable, production-oriented systems** — not just CRUD apps
+- 🏗️ Strengthening my **backend engineering** foundations Java, software architecture, and design principles
+- 🎯 Working toward building **scalable, production-oriented systems** not just CRUD apps
 - 🚀 Long-term goal: become a strong software engineer who can design scalable backend systems and AI-powered applications
 
 ---
@@ -112,7 +112,7 @@ I practice DSA and competitive programming regularly, mainly in C++, and take pa
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithiraj-Dhar&theme=minimal&hide_border=true" />
 </p>
 
 ---
