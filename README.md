@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  I build things, break things, and figure out how they work — currently on the path from student to backend engineer.
+  I build things, break things, and figure out how they work, currently on the path from student to backend engineer.
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ### 👤 About Me
 
-I'm a CSE undergrad in Bangladesh, deliberately building myself toward a career as a professional software/backend engineer. My focus right now is on getting the fundamentals genuinely solid clean OOP, sound data structures, and an understanding of how real systems are architected before chasing frameworks and buzzwords.
+I'm a CSE undergrad in Bangladesh, deliberately building myself toward a career as a professional software/backend engineer. My focus right now is on getting the fundamentals genuinely solid: clean OOP, sound data structures, and an understanding of how real systems are architected before chasing frameworks and buzzwords.
 
 I care about **backend engineering, system design, DevOps, and cloud computing**, and I'm also exploring **AI/Generative AI** as a space I want to build in. I'd rather deeply understand *why* a system is designed a certain way than just ship something that works.
 
@@ -101,7 +101,7 @@ I'm also actively exploring **AI/ML and Generative AI**, with an interest in eve
 
 ### 🏆 Competitive Programming
 
-I practice DSA and competitive programming regularly, mainly in C++, and take part in programming contests. I've solved problems across multiple competitive programming platforms and I'm continuously working on sharpening my algorithmic thinking and problem-solving speed.
+I practice DSA and competitive programming regularly, mainly in C++, and take part in programming contests. I've solved problems across multiple competitive programming platforms, and I'm continuously working on sharpening my algorithmic thinking and problem-solving speed.
 
 <!-- Optional: add your CP profile badges here once you have consistent handles, e.g. Codeforces/LeetCode stats cards -->
 
