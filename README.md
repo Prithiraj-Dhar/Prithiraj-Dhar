@@ -36,7 +36,7 @@
 
 ### 👤 About Me
 
-I'm a CSE undergrad in Bangladesh, deliberately building myself toward a career as a professional software/backend engineer. My focus right now is on getting the fundamentals genuinely solid — clean OOP, sound data structures, and an understanding of how real systems are architected — before chasing frameworks and buzzwords.
+I'm a CSE undergrad in Bangladesh, deliberately building myself toward a career as a professional software/backend engineer. My focus right now is on getting the fundamentals genuinely solid clean OOP, sound data structures, and an understanding of how real systems are architected before chasing frameworks and buzzwords.
 
 I care about **backend engineering, system design, DevOps, and cloud computing**, and I'm also exploring **AI/Generative AI** as a space I want to build in. I'd rather deeply understand *why* a system is designed a certain way than just ship something that works.
 
@@ -112,16 +112,22 @@ I practice DSA and competitive programming regularly, mainly in C++, and take pa
 > This section is a work in progress — I'm intentionally moving away from basic CRUD projects toward building things that reflect real backend engineering and system design thinking. Pinned repos below (or above, on my profile) reflect what I'm actively working on.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Prithiraj-Dhar&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithiraj-Dhar&layout=compact&theme=default&hide_border=true"/>
-</p>
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prithiraj-Dhar&theme=default&hide_border=true" />
+
+<a href="https://github.com/Prithiraj-Dhar">
+  <img src="https://img.shields.io/github/followers/Prithiraj-Dhar?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/Prithiraj-Dhar?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Prithiraj-Dhar?style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+<a href="https://github.com/Prithiraj-Dhar?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
