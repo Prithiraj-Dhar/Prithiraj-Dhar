@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm [Prithiraj] 👋</h1>
+<h1 align="center">Hi, I'm Prithiraj 👋</h1>
 <h3 align="center">CSE Undergraduate | Aspiring Backend & Software Engineer | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  I build things, break things, and figure out how they work currently on the path from student to backend engineer.
+  I build things, break things, and figure out how they work — currently on the path from student to backend engineer.
 </p>
 
 ---
@@ -11,8 +11,8 @@
 
 - 📚 2nd-year Computer Science & Engineering student
 - 🧠 Practicing **Data Structures, Algorithms & Competitive Programming** (mostly in C++)
-- 🏗️ Strengthening my **backend engineering** foundations Java, software architecture, and design principles
-- 🎯 Working toward building **scalable, production-oriented systems** not just CRUD apps
+- 🏗️ Strengthening my **backend engineering** foundations — Java, software architecture, and design principles
+- 🎯 Working toward building **scalable, production-oriented systems** — not just CRUD apps
 - 🚀 Long-term goal: become a strong software engineer who can design scalable backend systems and AI-powered applications
 
 ---
@@ -113,6 +113,24 @@ I practice DSA and competitive programming regularly, mainly in C++, and take pa
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithiraj-Dhar&theme=minimal&hide_border=true" />
+</p>
+
+---
+
+### ✍️ Newsletter
+
+<p align="center">
+  <a href="https://www.linkedin.com/newsletters/backend-insights-7449179846217326592/">
+    <img src="https://img.shields.io/badge/📰_Backend_Insights-Read_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Backend Insights Newsletter"/>
+  </a>
+</p>
+
+<p align="center">
+  I write <b>Backend Insights</b>, a LinkedIn newsletter where I break down backend engineering, OOP, and software design concepts as I learn them — not as a finished expert, but as someone documenting the climb.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/newsletters/backend-insights-7449179846217326592/"><b>👉 Subscribe to Backend Insights</b></a>
 </p>
 
 ---
