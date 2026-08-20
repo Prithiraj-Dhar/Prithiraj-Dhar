@@ -1,58 +1,128 @@
-<h1 align="center">Hi there, I'm Prithiraj 👋</h1>
+<h1 align="center">Hi, I'm [Prithiraj] 👋</h1>
+<h3 align="center">CSE Undergraduate | Aspiring Backend & Software Engineer | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  🚀 Competitive Programmer | 💻 CSE Student | 🌱 Lifelong Learner
+  I build things, break things, and figure out how they work — currently on the path from student to backend engineer.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🎯 Current Focus
 
-- 🎓 I'm currently pursuing my B.Sc. in **Computer Science & Engineering**
-- 🔁 Solved 500+ DSA problems on **Codeforces**, **LeetCode**, and **HackerRank**
-- 📚 Member of **XPSC** Club at **Phitron**
-- 💡 Completed **C Programming** and **DSA** courses with Phitron
-- 🌍 Dreaming to pursue a **Master's abroad (USA/UK)** in future
-- 🎯 Aiming to become a **skilled software developer** and contribute to impactful projects
-
----
-
-### 🚀 My Current Goals
-
-- 💪 Reach **Codeforces Specialist** and **CodeChef 3⭐**
-- 📗 Learn **HTML, CSS, JS** for full-stack development
-- 📘 Build strong fundamentals in **DSA, OOP, and CS core subjects**
-- ✍️ Start sharing knowledge via **blogs, posts, and projects**
-- 📖 Read books on **habits, productivity, and communication**
+- 📚 2nd-year Computer Science & Engineering student
+- 🧠 Practicing **Data Structures, Algorithms & Competitive Programming** (mostly in C++)
+- 🏗️ Strengthening my **backend engineering** foundations — Java, software architecture, and design principles
+- 🎯 Working toward building **scalable, production-oriented systems** — not just CRUD apps
+- 🚀 Long-term goal: become a strong software engineer who can design scalable backend systems and AI-powered applications
 
 ---
 
-### 🛠️ Technologies & Tools
+### 👤 About Me
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+I'm a CSE undergrad in Bangladesh, deliberately building myself toward a career as a professional software/backend engineer. My focus right now is on getting the fundamentals genuinely solid — clean OOP, sound data structures, and an understanding of how real systems are architected — before chasing frameworks and buzzwords.
+
+I care about **backend engineering, system design, DevOps, and cloud computing**, and I'm also exploring **AI/Generative AI** as a space I want to build in. I'd rather deeply understand *why* a system is designed a certain way than just ship something that works.
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Technical Skills
+
+**Languages**
+```
+C  ·  C++  ·  Python  ·  Java  ·  JavaScript  ·  C#
+```
+
+**Backend & Frameworks**
+```
+Node.js  ·  ASP.NET
+```
+
+**Databases**
+```
+MongoDB  ·  SQL
+```
+
+**Tools & Platforms**
+```
+Git / GitHub  ·  Gradle  ·  Docker
+```
+
+---
+
+### 💡 Development Interests
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Core Engineering**
+- Object-Oriented Programming
+- SOLID Principles
+- Design Patterns
+- Data Structures & Algorithms
+- Backend Development
+- REST APIs
+
+</td>
+<td valign="top" width="50%">
+
+**Systems & Infrastructure**
+- System Design
+- Distributed Systems
+- Apache Kafka
+- Docker & CI/CD
+- DevOps
+- Cloud Computing
+
+</td>
+</tr>
+</table>
+
+I'm also actively exploring **AI/ML and Generative AI**, with an interest in eventually combining that with backend systems to build AI-powered applications.
+
+---
+
+### 🏆 Competitive Programming
+
+I practice DSA and competitive programming regularly, mainly in C++, and take part in programming contests. I've solved problems across multiple competitive programming platforms and I'm continuously working on sharpening my algorithmic thinking and problem-solving speed.
+
+<!-- Optional: add your CP profile badges here once you have consistent handles, e.g. Codeforces/LeetCode stats cards -->
+
+---
+
+### 🧩 Projects
+
+> This section is a work in progress — I'm intentionally moving away from basic CRUD projects toward building things that reflect real backend engineering and system design thinking. Pinned repos below (or above, on my profile) reflect what I'm actively working on.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prithiraj-Dhar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prithiraj-Dhar&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📈 Contribution Activity
 
-- 🌐 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prithiraj-dhar/)
-- 📩 Email: prithirajdhar7@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=minimal&hide_border=true" />
+</p>
 
 ---
 
-_“Code every day, learn something new, and never stop growing.”_
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prithiraj-dhar/">LinkedIn</a> ·
+  <a href="mailto:prithirajdhar7@gmail.com">Email</a> ·
+  <a href="https://github.com/Prithiraj-Dhar">GitHub</a>
+</p>
+
+<p align="center"><sub>Still learning, still building — check back often.</sub></p>
