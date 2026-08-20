@@ -1,5 +1,22 @@
-<h1 align="center">Hi, I'm Prithiraj 👋</h1>
-<h3 align="center">CSE Undergraduate | Aspiring Backend & Software Engineer | Bangladesh 🇧🇩</h3>
+<h1 align="center">Hi 👋, I'm Prithiraj</h1>
+<h3 align="center">CSE Undergraduate · Aspiring Backend & Software Engineer · Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+backend+engineering+one+system+at+a+time;Practicing+DSA+%26+Competitive+Programming+in+C%2B%2B;Writing+Backend+Insights+on+LinkedIn" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prithiraj-dhar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prithirajdhar7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Prithiraj-Dhar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Prithiraj-Dhar&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 <p align="center">
   I build things, break things, and figure out how they work — currently on the path from student to backend engineer.
@@ -104,7 +121,7 @@ I practice DSA and competitive programming regularly, mainly in C++, and take pa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithiraj-Dhar&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Prithiraj-Dhar&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -137,10 +154,6 @@ I practice DSA and competitive programming regularly, mainly in C++, and take pa
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prithiraj-dhar/">LinkedIn</a> ·
-  <a href="mailto:prithirajdhar7@gmail.com">Email</a> ·
-  <a href="https://github.com/Prithiraj-Dhar">GitHub</a>
-</p>
+Feel free to reach out via the links at the top of this page, or check out **Backend Insights** above.
 
 <p align="center"><sub>Still learning, still building — check back often.</sub></p>
