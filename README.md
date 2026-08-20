@@ -99,12 +99,12 @@ I practice DSA and competitive programming regularly, mainly in C++, and take pa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Prithiraj-Dhar&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithiraj-Dhar&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithiraj-Dhar&theme=default&hide_border=true" />
 </p>
 
 ---
